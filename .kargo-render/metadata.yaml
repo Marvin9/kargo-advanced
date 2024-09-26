@@ -1,0 +1,3 @@
+imageSubstitutions:
+- ghcr.io/marvin9/guestbook:v0.0.1
+sourceCommit: 6866d7ff029f4928df48e3594017403aa636dccd
