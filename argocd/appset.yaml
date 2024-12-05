@@ -19,8 +19,8 @@ spec:
       destination:
         namespace: guestbook-{{path.basename}}
         # Specify either a cluster destination name or server address:
-        name: 
-        # server: https://REPLACEME
+        # name: REPLACEME
+        server: https://kubernetes.default.svc
       project: guestbook
       source:
         path: ./
